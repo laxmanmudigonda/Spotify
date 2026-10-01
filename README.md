@@ -123,10 +123,6 @@ Spotify/
 - Improved accessibility and keyboard navigation
 - Packaging as a standalone desktop executable
 
-## Demo
-
-Watch the original project demo on [YouTube Shorts](https://youtube.com/shorts/2GwQ9Whqxak?si=5c2Ku5vN1xaRdIZl).
-
 ## Disclaimer
 
 This is an independent educational project and is not affiliated with, endorsed by, or sponsored by Spotify. Spotify and its marks belong to their respective owners.
