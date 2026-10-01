@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Spotify OAuth cache contains access and refresh tokens
+.cache
+.cache-*
+
+# Local configuration and editor files
+.env
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

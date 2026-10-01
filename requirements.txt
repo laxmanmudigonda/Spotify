@@ -1,0 +1,6 @@
+cachetools>=5.3,<7
+Pillow>=10.0,<13
+spotipy>=2.23,<3
+
+# Development and testing
+pytest>=8.0,<10
